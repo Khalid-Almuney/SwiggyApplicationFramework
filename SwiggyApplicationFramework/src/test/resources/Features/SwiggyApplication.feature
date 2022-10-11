@@ -7,3 +7,4 @@ Feature: feature to test swiggyApp search places functionality
     When user enter name of place 
     And hits enter
     Then user is navigated to search results
+ 
